@@ -20,10 +20,10 @@ My name is Mustafa Soylu, and I'm a software developer based in Aachen, germany.
 
 Here are some of the projects I've worked on:
 
-- [Project 1](https://github.com/YourGitHubUsername/Project1)
-- [Project 2](https://github.com/YourGitHubUsername/Project2)
-- [Project 3](https://github.com/YourGitHubUsername/Project3)
+- [somesy](https://github.com/Materials-Data-Science-and-Informatics/somesy)
+- [React ChatGPT Chatbot](https://github.com/mustafasoylu/chatbot-gpt4)
+- [Anime-girl Chatbot with python](https://github.com/mustafasoylu/anime-girl-chatbot)
 
 ## Contact Me
 
-Feel free to contact me at [Your Email Address] if you have any questions or would like to collaborate on a project.
+Feel free to contact me at [mohkargan@gmail.com](mailto:mohkargan@gmail.com) if you have any questions or would like to collaborate on a project.
