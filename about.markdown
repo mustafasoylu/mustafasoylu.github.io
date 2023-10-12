@@ -4,15 +4,26 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+# About Me
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+My name is Mustafa Soylu, and I'm a software developer based in Aachen, germany. I have experience working with Ruby and the Bundler gem.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+## My Skills
 
+- Ruby
+- Bundler
+- HTML
+- CSS
+- JavaScript
 
-[jekyll-organization]: https://github.com/jekyll
+## My Projects
+
+Here are some of the projects I've worked on:
+
+- [Project 1](https://github.com/YourGitHubUsername/Project1)
+- [Project 2](https://github.com/YourGitHubUsername/Project2)
+- [Project 3](https://github.com/YourGitHubUsername/Project3)
+
+## Contact Me
+
+Feel free to contact me at [Your Email Address] if you have any questions or would like to collaborate on a project.
