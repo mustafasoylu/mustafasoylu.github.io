@@ -1,8 +1,8 @@
 ---
-layout: post
+# layout: post
 title: "Jekyll and GitHub Pages"
 date: 2023-10-12 13:44:31 +0200
-categories: jekyll update
+categories: posts
 ---
 
 ## Install ruby and jekyll to local user
@@ -72,3 +72,26 @@ You can update index.md and about.md, commit and push them to the repository.
 ## Serve in GitHub Pages
 
 Before doing anything, GitHub pages settings were done automatically for me. If it does not work, you can check [here](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site) to have correct settings.
+
+## Use modernist theme
+
+1. Add bundle for remote-theme with `bundle add jekyll-remote-theme`.
+2. Add below lines to `_config.yml` file. If there is a `theme` line, comment it out. If plugins line exists, add `jekyll-remote-theme` to the list.
+
+```yaml
+# Build settings
+# theme: minima
+remote_theme: pages-themes/modernist
+plugins:
+  - jekyll-remote-theme
+```
+
+3. Comment out or delete layout lines in any markdown file's in the front matter.
+
+```yaml
+---
+# layout: home
+title: Home
+permalink: /
+---
+```
