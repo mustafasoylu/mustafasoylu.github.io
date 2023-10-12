@@ -30,7 +30,7 @@ gem install jekyll
 
 ## Create a repository
 
-Create a repository named <your_username>.github.io
+Create a repository named your_github_username.github.io
 
 ## Create a jekyll project and connect to github
 
